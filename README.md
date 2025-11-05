@@ -13,7 +13,7 @@ It will feel like the app’s rooting for you, not judging you. It would automat
 
 The engine behind it all would be Python, with libraries like pandas, matplotlib, and scikit-learn, the brains for data and AI. For looks and feel, maybe Flask or Streamlit for the interface. Clean, fast, not too techy. And here’s something cool, a tiny chatbot inside. You could literally ask, “How much can I save if I stop eating out twice a week?” and boom, it replies, “About $85 a month, maybe put that toward your trip fund?”
 There are already a few apps doing bits of this, but I want mine to feel more… human. Like, personal. Not just “budget this, save that.” One open-source project that really inspired me is this one:
-URL: https://github.com/hakiKhuva/expense-tracker
+URL:https://github.com/notCienki/Personal-Budget-Assistant , https://github.com/EnhancedJax/Bagels
 Still, SmartBudget would go further. It wouldn’t just track money, it would understand why you spend the way you do. If you splurge a bit one week, instead of scolding you, it might say,
 “Looks like you treated yourself,  nothing wrong with that! Want to balance it out next week?”
 It’s friendly. It’s gentle. It gets you. Because money shouldn’t make you feel guilty — it should make you feel in control. 
